@@ -9,4 +9,6 @@ tuy nhiên tập data của lớp không phù hợp với mục đích của app
 
 - Chúng em sử dụng thêm thư viện Google Text-to-Speech (gTTS) để thực hiện xác nhận lại những lệnh mà người dùng đưa ra.
 
+- Phần code chính được đặt tại /XLTN/Pi4/sr.p
+
 

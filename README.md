@@ -12,3 +12,4 @@ tuy nhiên tập data của lớp không phù hợp với mục đích của app
 - Phần code chính được đặt tại /XLTN/Pi4/sr.p
 
 
+- Link demo: https://www.youtube.com/watch?v=97g1-mHKB2Y
